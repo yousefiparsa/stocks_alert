@@ -1,0 +1,6 @@
+yfinance>=0.1.67
+yahoofinancials>=1.6
+pandas>=1.3.4
+matplotlib>=3.5.0
+seaborn>=0.11.2
+openpyxl>=3.0.9
